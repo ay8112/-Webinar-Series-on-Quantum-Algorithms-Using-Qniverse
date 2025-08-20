@@ -24,7 +24,7 @@ Week 3	Quantum Veto Protocol	Prof. Anirban Pathak, Professor and HOD of Physics 
 Week 4	Deutsch - Jozsa Algorithm	Mr. Harishankar Mishra, Knowledge Associate, C-DAC Bangalore	Wednesday	July 30, 2025 & 5:30 PM - 6:30 PM	Click Here	Take a Quiz
 Week 5	Quantum Fourier Transform & Quantum Phase Estimation Algorithm	Prof. Amlan Chakrabarti, Professor and Director, A.K. Choudhury School of IT, University of Calcutta & Adj. Prof. IIIT Delhi	Wednesday	August 6, 2025 & 5:30 PM - 6:30 PM	Click Here	Take a Quiz
 Week 6	Shors Algorithm	Mr. Jothishwaran Arunagiri, Ph.D Scholar	Wednesday	August 13, 2025 & 5:30 PM - 6:30 PM	Click Here	
-Note: Session Password: Quantum@123
+Note: Session Password:******************
 
 FAQ
 Details
